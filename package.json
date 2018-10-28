@@ -1,9 +1,9 @@
 {
-  "name": "cwhubot",
+  "name": "slave_kun",
   "version": "0.0.0",
   "private": true,
-  "author": "cherry_kun <tomoseto15@gmail.com>",
-  "description": "slave of cherry_kun",
+  "author": "cherry_kun",
+  "description": "cherry_kun's slave",
   "dependencies": {
     "hubot": "^3.1.1",
     "hubot-diagnostics": "^1.0.0",
